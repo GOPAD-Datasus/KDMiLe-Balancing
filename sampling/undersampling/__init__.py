@@ -1,4 +1,3 @@
 from .undersampling import undersampling
 
-
-__all__ = ['undersampling']
+__all__ = ["undersampling"]
