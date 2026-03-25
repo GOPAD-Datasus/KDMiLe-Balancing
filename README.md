@@ -3,10 +3,10 @@
 
 ## Paper
 
-> This repository is based on our paper:
-**Combating Class Imbalance for Infant Mortality Risk Modeling: Resampling Strategies in Brazil's Unified Health System**
-Authors: Morsoleto, R. et al.
-Accepted at: [KDMiLe](https://sbbd.org.br/2025/kdmile/?lang=pt) 2025.
+> This repository is based on our paper:  
+**Combating Class Imbalance for Infant Mortality Risk Modeling: Resampling Strategies in Brazil's Unified Health System**  
+Authors: Morsoleto, R. et al.  
+Accepted at: [KDMiLe](https://sbbd.org.br/2025/kdmile/?lang=pt) 2025.  
 
 
 ## Installation & Usage
